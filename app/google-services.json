@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388341393106",
+    "project_id": "todel-97c98",
+    "storage_bucket": "todel-97c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388341393106:android:db4a68f3fb1ed6305a2f0b",
+        "android_client_info": {
+          "package_name": "com.dam.firstfirestbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388341393106-ndicj9i71j3visg8714ai9hcigd9aj1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam.firstfirestbase",
+            "certificate_hash": "17332e03e8ec915a6f496aa4d19b6824e7187c32"
+          }
+        },
+        {
+          "client_id": "388341393106-a6ieddp4dg3t6c91vl4kfftak18v9g7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgSwnmiaTD5v1TwpAooZ1lhd7-9hUluw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388341393106-a6ieddp4dg3t6c91vl4kfftak18v9g7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
