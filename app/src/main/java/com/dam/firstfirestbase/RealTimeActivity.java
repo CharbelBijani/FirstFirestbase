@@ -17,6 +17,7 @@ public class RealTimeActivity extends AppCompatActivity {
     // VARS GLOBALES
     private static final String TAG = "RealTimeActivity";
 
+
     FirebaseDatabase db;
     DatabaseReference myRef;
 
@@ -25,7 +26,7 @@ public class RealTimeActivity extends AppCompatActivity {
 
     // Initalisation des composants
     private void initUI(){
-        db = FirebaseDatabase.getInstance();
+        db = FirebaseDatabase.getInstance("https://todel-fb165-default-rtdb.europe-west1.firebasedatabase.app");
         myRef = db.getReference("message");
         btnSend = findViewById(R.id.btnSend);
         etMessage = findViewById(R.id.etMessage);
